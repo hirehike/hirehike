@@ -27,6 +27,7 @@ check out more information at www.hirehike.com
 * Twitter - https://twitter.com/hirehike/
 * LinkedIn - https://www.linkedin.com/company/hirehike/
 * YouTube - https://www.youtube.com/channel/UCl-lVVzuqR47jV5lpB4tfAg
+* Google - https://goo.gl/maps/9W1CfPcp8V3BixfW9
 
 ### Message us on
 
