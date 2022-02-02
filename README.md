@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to the official repository of Hirehike, Inc.
+Welcome to the official GitHub repository of Hirehike, Inc.
 
 We are a (Software-as-a-Service) SaaS company offering a Business Software Suite which includes over 30+ Business apps.
 
