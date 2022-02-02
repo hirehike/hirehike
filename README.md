@@ -1,3 +1,5 @@
+![Image](/hirehike_logo_white_small.png?raw=true "Hirehike Logo")
+
 ### Hi there 👋
 
 Welcome to the official GitHub repository of Hirehike, Inc.
