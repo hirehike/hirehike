@@ -16,7 +16,7 @@ We are a (Software-as-a-Service) SaaS company offering a Business Software Suite
 
 * We **Register Internet Domains, SSL certificates, Code Signing Certificates, Cloud Hosting and more.**
 
-* We **Print Business Materials like Identity Cards (Id Cards), Visiting Cards, T-Shirts, Calendars, Notepads, Mugs, Pens, and more.**
+* We **Print Business Materials like Identity Cards (I'd Cards), Visiting Cards, T-Shirts, Calendars, Notepads, Mugs, Pens, and more.**
 
 check out more information at www.hirehike.com
 
