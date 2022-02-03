@@ -14,6 +14,8 @@ We are a (Software-as-a-Service) SaaS company offering a Business Software Suite
 
 * We **Register and Incorporate your business (Pvt Ltd, Limited, etc.) in India, US, UK, Singapore, Netherlands, Hong Kong, Dubai.**
 
+* We **do GST Filings, GST Registration, Trademarks Registration, MSME Registration, Shop Licences, FSSAI Food licensing, Accounting and Book-keeping, ROC & MCA Compliances**
+
 * We **Register Internet Domains, SSL certificates, Code Signing Certificates, Cloud Hosting and more.**
 
 * We **Print Business Materials like Rubber Stamps, Office Seals, Identity Cards (I'd Cards), Visiting Cards, T-Shirts, Calendars, Notepads, Mugs, Pens, and more.**
