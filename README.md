@@ -20,7 +20,7 @@ We are a (Software-as-a-Service) SaaS company offering a Business Software Suite
 
 * We **Print Business Materials like Rubber Stamps, Office Seals, Identity Cards (I'd Cards), Visiting Cards, T-Shirts, Calendars, Notepads, Mugs, Pens, and more.**
 
-check out more information at https://www.hirehike.com or https://hirehike.github.io/en-US/
+check out more information at https://www.hirehike.com
 
 ### Follow us on
 
