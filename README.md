@@ -8,17 +8,11 @@ We are a (Software-as-a-Service) SaaS company offering a Business Software Suite
 
 ### What we do?
 
-* We create **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS)** for your business.
+* We create **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS), Web Browser Extensions** for your business.
 
 * We provide **Billing Softwares (YouTube Demo - https://www.youtube.com/watch?v=5Z9VXhnvvw8) (Invoicing with Tax) and all other CRM Apps** to power your organization.
 
-* We **Register and Incorporate your business (Pvt Ltd, Limited, etc.) in India, US, UK, Singapore, Netherlands, Hong Kong, Dubai.**
-
-* We **do GST Filings, GST Registration, Trademarks Registration, MSME Registration, Shop Licences, FSSAI Food Licensing, Accounting and Book-keeping, ROC & MCA Compliances.**
-
-* We **Register Internet Domains, SSL certificates, Code Signing Certificates, Cloud Hosting and more.**
-
-* We **Print Business Materials like Rubber Stamps, Office Seals, Identity Cards (I'd Cards), Visiting Cards, T-Shirts, Calendars, Notepads, Mugs, Pens, and more.**
+* We **Register Internet Domains, SSL certificates, Code Signing Certificates, Cloud Hosting (Web Servers and Email Servers) and more.**
 
 check out more information at https://www.hirehike.com
 
