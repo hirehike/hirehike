@@ -8,7 +8,7 @@ We are a (Software-as-a-Service) SaaS company offering a Business Software Suite
 
 ### What we do?
 
-* We create **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS), Web Browser Extensions (Google Chrome, Microsoft Edge, Mozilla Firefox)** for your business.
+* We design and develop **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS), Web Browser Extensions (Google Chrome, Microsoft Edge, Mozilla Firefox)** for your business.
 
 * We provide **Billing Softwares (Invoicing with Tax) and all other CRM Apps** to power your organization.
 
