@@ -19,10 +19,10 @@ check out more information at https://www.hirehike.com
 ### Follow us on
 
 * Facebook - https://www.facebook.com/hirehikeindia/
-* Instagram - https://www.instagram.com/hirehikeindia/
+* Instagram - https://www.instagram.com/hirehike/
 * Twitter - https://twitter.com/hirehike/
 * LinkedIn - https://www.linkedin.com/company/hirehike/
-* YouTube - https://www.youtube.com/channel/UCl-lVVzuqR47jV5lpB4tfAg
+* YouTube - https://www.youtube.com/@hirehike
 * Google - https://goo.gl/maps/9W1CfPcp8V3BixfW9
 
 ### Message us on
