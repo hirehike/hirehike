@@ -4,15 +4,13 @@
 
 Welcome to the official GitHub repository of Hirehike, Inc.
 
-We are a (Software-as-a-Service) SaaS company offering a Business Software Suite which includes over 30+ Business apps.
+We create software for your brand. Make your computer experience smarter, faster and more personalized with our products and services.
 
 ### What we do?
 
 * We design and develop **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS), Web Browser Extensions (Google Chrome, Microsoft Edge, Mozilla Firefox)** for your business.
 
 * We provide **Billing Softwares (Invoicing with Tax) and all other CRM Apps** to power your organization.
-
-* We **Register Internet Domains, SSL certificates, Code Signing Certificates, Cloud Hosting (Web Servers and Email Servers) and more.**
 
 check out more information at https://www.hirehike.com
 
