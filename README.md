@@ -18,7 +18,7 @@ check out more information at https://www.hirehike.com
 
 * Facebook - https://www.facebook.com/hirehikeindia/
 * Instagram - https://www.instagram.com/hirehike/
-* Twitter - https://twitter.com/hirehike/
+* Twitter - https://twitter.com/hirehikeindia/
 * LinkedIn - https://www.linkedin.com/company/hirehike/
 * YouTube - https://www.youtube.com/@hirehike
 * Google - https://goo.gl/maps/9W1CfPcp8V3BixfW9
