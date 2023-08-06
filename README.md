@@ -34,7 +34,6 @@ We at Hirehike will consistently provide products and services that meet the peo
 * LinkedIn - https://www.linkedin.com/company/hirehike/
 * YouTube - https://www.youtube.com/@hirehike
 * Google - https://goo.gl/maps/9W1CfPcp8V3BixfW9
-* Buy Me a Coffee - https://www.buymeacoffee.com/hirehike
 * Ko-Fi - https://ko-fi.com/hirehike
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1KQV8H)
