@@ -4,15 +4,27 @@
 
 Welcome to the official GitHub repository of Hirehike, Inc.
 
-We create software for your brand. Make your computer experience smarter, faster and more personalized with our products and services.
+We create software for your brand. Make your computer experience smarter, faster, and more personalized with our products and services.
 
-### What we do?
+### What do we do?
 
-* We design and develop **Websites, Web Apps, Mobile Appplications (Android, iOS), Desktop Applications (Windows, Linux, macOS), Web Browser Extensions (Google Chrome, Microsoft Edge, Mozilla Firefox)** for your business.
+* We design and develop **Websites, Web Apps, Mobile applications (Android, iOS), Desktop Applications (Windows, Linux, macOS), and Web Browser Extensions (Google Chrome, Microsoft Edge, Mozilla Firefox)** for your business.
 
-* We provide **Billing Softwares (Invoicing with Tax) and all other CRM Apps** to power your organization.
+* We provide **Billing Software (Invoicing with Tax) and all other CRM Apps** to power your organization.
 
 check out more information at https://www.hirehike.com
+
+### Our Mission
+
+We help businesses create their software and make it available to use.
+
+### Our Vision
+
+The cost and effort it takes to create a business from scratch should be simplified in a way that it should be much easier to create a business than finding a job.
+
+### Our Quality Policy
+
+We at Hirehike will consistently provide products and services that meet the people and the companies requirements and expectations. We will effectively pursue ever improving quality that enable people all around the world.
 
 ### Follow us on
 
