@@ -16,15 +16,15 @@ check out more information at https://www.hirehike.com
 
 ### Our Mission
 
-We help businesses create their software and make it available to use.
+At Hirehike, we're not just a software development company; we're a bridge to the future. We create innovative software products that drive change, while our recruitment platform connects top tech talent with their dream roles. Every line of code we write and every match we make is driven by our commitment to excellence and our passion for enriching the tech ecosystem.
 
 ### Our Vision
 
-The cost and effort it takes to create a business from scratch should be simplified in a way that it should be much easier to create a business than finding a job.
+To stand as a global leader in both software solutions and tech recruitment, where our products define industry standards and our platform is the go-to hub for technology professionals seeking their next big opportunity.
 
 ### Our Quality Policy
 
-We at Hirehike will consistently provide products and services that meet the people and the companies requirements and expectations. We will effectively pursue ever improving quality that enable people all around the world.
+Quality isn't just a buzzword at Hirehike; it's our foundational principle. From the first sketch of an idea to the final line of code, from the listing of a job to the successful placement of a candidate, we are relentless in our pursuit of excellence. We prioritize feedback, adapt to the ever-evolving tech landscape, and ensure impeccable user experience in every product and service we offer. At Hirehike, we don't just meet expectations; we aim to exceed them.
 
 ### Follow us on
 
@@ -33,10 +33,7 @@ We at Hirehike will consistently provide products and services that meet the peo
 * Twitter - https://twitter.com/hirehike/
 * LinkedIn - https://www.linkedin.com/company/hirehike/
 * YouTube - https://www.youtube.com/@hirehike
-* Google - https://goo.gl/maps/9W1CfPcp8V3BixfW9
-* Ko-Fi - https://ko-fi.com/hirehike
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1KQV8H)
+* Google - [https://goo.gl/maps/9W1CfPcp8V3BixfW9](https://g.page/r/CVHY4uyNLMJ3EAI/review)
 
 ### Message us on
 
