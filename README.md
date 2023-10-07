@@ -33,7 +33,7 @@ Quality isn't just a buzzword at Hirehike; it's our foundational principle. From
 * Twitter - https://twitter.com/hirehike/
 * LinkedIn - https://www.linkedin.com/company/hirehike/
 * YouTube - https://www.youtube.com/@hirehike
-* Google - [https://goo.gl/maps/9W1CfPcp8V3BixfW9](https://g.page/r/CVHY4uyNLMJ3EAI/review)
+* Google - https://maps.app.goo.gl/Qpu8441MECvEKWceA
 
 ### Message us on
 
@@ -43,4 +43,4 @@ Quality isn't just a buzzword at Hirehike; it's our foundational principle. From
 ### Rate us on
 
 * Facebook - https://www.facebook.com/hirehikeindia/reviews/
-* Google - https://g.page/r/CYHHqbn-iqW2EBM/review
+* Google - https://g.page/r/CVHY4uyNLMJ3EAI/review
