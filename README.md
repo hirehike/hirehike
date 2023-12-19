@@ -44,3 +44,5 @@ Quality isn't just a buzzword at Hirehike; it's our foundational principle. From
 
 * Facebook - https://www.facebook.com/hirehikeindia/reviews/
 * Google - https://g.page/r/CVHY4uyNLMJ3EAI/review
+* Trustpilot - https://www.trustpilot.com/review/hirehike.com
+* AmbitionBox - https://www.ambitionbox.com/reviews/hirehike-reviews
