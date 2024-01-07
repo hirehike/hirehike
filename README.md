@@ -47,3 +47,8 @@ Quality isn't just a buzzword at Hirehike; it's our foundational principle. From
 * Google - https://g.page/r/CVHY4uyNLMJ3EAI/review
 * Trustpilot - https://www.trustpilot.com/review/hirehike.com
 * AmbitionBox - https://www.ambitionbox.com/reviews/hirehike-reviews
+
+### Join Our Newsletter
+
+* LinkedIn - https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7141489096215977984
+
