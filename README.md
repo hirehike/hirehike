@@ -37,6 +37,7 @@ Quality isn't just a buzzword at Hirehike; it's our foundational principle. From
 
 ### Message us on
 
+* Skype - https://join.skype.com/invite/xFKpxc7FyQxC
 * WhatsApp - https://api.whatsapp.com/send?phone=917904428253
 * Email - info[at]hirehike[dot]com
 
