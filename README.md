@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to the official GitHub repository of Hirehike, Inc.
+Welcome to the official GitHub repository of Hirehike Corporation.
 
 We create software for your brand. Make your computer experience smarter, faster, and more personalized with our products and services.
 
